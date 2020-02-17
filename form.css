@@ -1,0 +1,81 @@
+body {
+    background-image: url(https://us.123rf.com/450wm/zaynecer/zaynecer1612/zaynecer161200068/69457372-ciel-nocturne-%C3%A9toil%C3%A9-constellations-dans-le-ciel-sombre.jpg?ver=6)
+}
+
+.form-div {
+    display: flex;
+    flex-direction: column;
+    margin: 10% 30%;
+}
+
+.label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.text-input {
+    height: 50px;
+    font-size: 20px;
+    border-radius: 7px;
+    border-style: solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 2%;
+}
+
+.btn {
+    margin: 2% 30%;
+}
+
+#Comments {
+    height: 400px;
+}
+
+.buttons {
+    margin-left: 40%;
+}
+
+#sendbtn {
+    height: 50px;
+    width: 200px;
+    font-size: 26px;
+    font-family: Tahoma, sans-serif;
+    font-weight: 600;
+    border-radius: 7px;
+    border-style: solid;
+    color:rgb(1, 1, 71);
+}
+
+#resetbtn {
+    height: 50px;
+    width: 200px;
+    font-size: 26px;
+    font-family: Tahoma, sans-serif;
+    font-weight: 600;
+    border-radius: 7px;
+    border-style: solid;
+    border-width: 2px;
+    background-color: rgba(0, 0, 139, 0);
+    color: whitesmoke;
+    border-color: whitesmoke;
+}
+
+.title {
+    margin-top: 10%;
+    text-align: center;
+    font-size: 30px;
+    font-family: Tahoma, sans-serif;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.bottom {
+    margin-bottom: 0%;
+    text-align: center;
+    font-size: 22px;
+    font-family: Tahoma, sans-serif;
+    font-weight: 500;
+    color: whitesmoke;
+}
+
